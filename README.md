@@ -4,7 +4,7 @@ Currently working on:
 
   ⌨️ Dissertation - *Early Neighborhood Disadvantage and Emotional Functioning: Underlying Neurobiological Mechanisms*
   
-  🔜 Open to Netowrk - Seeking Data Science Phd Level Internships for 2025
+  🔜 Open to Network - Seeking Data Science Phd Level Internships for 2025
 
 
 
