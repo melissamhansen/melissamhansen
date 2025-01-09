@@ -1,5 +1,10 @@
 🧠 Cognitive Neuroscience PhD Candidate | Bridging Data, Brain, and Behavior with Machine Learning and Advanced Neuroimaging 🚀
 
+Currently working on: 
+  ⌨️ Dissertation - *Early Neighborhood Disadvantage and Emotional Functioning: Underlying Neurobiological Mechanisms*
+  🔜 Open for Hire - Data Science Phd Level Internships for 2025
+
+
 
 <!--
 **melissamhansen/melissamhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
