@@ -1,4 +1,4 @@
-🧠 Cognitive Neuroscience PhD Candidate | Bridging Data, Brain, and Behavior with Machine Learning and Advanced Neuroimaging 🚀"
+🧠 Cognitive Neuroscience PhD Candidate | Bridging Data, Brain, and Behavior with Machine Learning and Advanced Neuroimaging 🚀
 
 
 <!--
