@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent.com/melissamhansen/melissamhansen/main/il_1588xN.4633984845_klug.jpg" alt="Brain Art" width="50" style="vertical-align: middle; margin-left: 10px;"> Hi there <img src="https://raw.githubusercontent.com/melissamhansen/melissamhansen/main/il_1588xN.4633984845_klug.jpg" alt="Brain Art" width="50" style="vertical-align: middle; margin-left: 10px;">
-
-
- Welcome to my GitHub
+🧠 Cognitive Neuroscience PhD Candidate | Bridging Data, Brain, and Behavior with Machine Learning and Advanced Neuroimaging 🚀"
 
 
 <!--
