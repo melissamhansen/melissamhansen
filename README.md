@@ -1,6 +1,5 @@
-![Brain Art](https://github.com/melissamhansen/melissamhansen/blob/main/il_1588xN.4633984845_klug.jpg)
+## Hi there 👋 <img src="https://raw.githubusercontent.com/melissamhansen/melissamhansen/main/il_1588xN.4633984845_klug.jpg" alt="Brain Art" width="50" style="vertical-align: middle; margin-left: 10px;">
 
-## Hi there 👋
 
  Welcome to my GitHub
 
