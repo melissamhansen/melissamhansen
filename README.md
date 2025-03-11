@@ -1,10 +1,10 @@
-🧠 Cognitive Neuroscience PhD Candidate | Bridging Data, Brain, and Behavior with Machine Learning and Advanced Neuroimaging 🚀
+🧠 Cognitive Neuroscience PhD Candidate | Bridging Data, Brain, and Behavior with Advanced Modeling and Neuroimaging 🚀
 
 Currently working on:
 
   ⌨️ Dissertation - *Early Neighborhood Disadvantage and Emotional Functioning: Underlying Neurobiological Mechanisms*
   
-  🔜 Open to Network - Seeking Data Science Phd Level Internships for 2025
+  🔜 Open to Network - Seeking Data Science Phd Level Internships for 2025-2026
 
 
 
