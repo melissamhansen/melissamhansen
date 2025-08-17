@@ -1,10 +1,11 @@
 🧠 Cognitive Neuroscience PhD Candidate | Bridging Data, Brain, and Behavior with Advanced Modeling and Neuroimaging 🚀
+Biostatistics Intern | Biogen | Cambridge, MA
 
 Currently working on:
 
   ⌨️ Dissertation - *Early Neighborhood Disadvantage and Emotional Functioning: Underlying Neurobiological Mechanisms*
   
-  🔜 Open to Network - Seeking Data Science or Biostatistics Phd Level Internships for 2025-2026
+  🔜 Open to Network - Seeking Data Science or Biostatistics Post-docs or Full-time Roles for 2026
 
 
 
