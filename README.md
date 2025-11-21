@@ -1,4 +1,4 @@
-🧠 Cognitive Neuroscience PhD Candidate | Advanced Modeling and Neuroimaging 🚀
+🧠 Cognitive Neuroscience PhD Candidate | Neuroimaging �
 
 Currently Biostatistics Intern | Biogen | Cambridge, MA
 
